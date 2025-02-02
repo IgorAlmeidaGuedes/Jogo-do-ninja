@@ -1,0 +1,18 @@
+# Arquivos e pastas que NÃO devem ser enviados ao Git
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# Configurações locais do Unity
+*.csproj
+*.sln
+*.userprefs
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
