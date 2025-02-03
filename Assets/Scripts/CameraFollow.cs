@@ -3,7 +3,7 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
     public Transform player;  // Referência ao player
-    private float fixedY;     // Posição fixa da altura da câmera
+    private float fixedY;   
 
     void Start()
     {
